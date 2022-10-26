@@ -14,6 +14,12 @@ This isn't a "school" by any means, this organization will **not teach you** how
 ### [WPF-Games](https://github.com/Silly-School/WPF-Games) - learning how to use WPS
 ![](https://img.shields.io/github/commit-activity/w/Silly-School/WPF-Games) ![](https://img.shields.io/github/stars/Silly-School/WPF-Games?style=social)
 
+
+# Contact:
+
+- Email: [`contact@sillysoon.de`](mailto:contact@sillysoon.de)
+- Discord: `SillySoon#2207`
+
 <!--
 # Archived Projects
 
